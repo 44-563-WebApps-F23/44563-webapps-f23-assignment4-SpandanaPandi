@@ -8,13 +8,14 @@
     font-size: 9px;
     font-family:italic;
     background-color:lightskyblue ;
+     height: 10px;width: 170px;;
 }
 .direction:hover{
-    color:pink;
-    background-color:darkgreen ;
+    color:white;
+    background-color:lightcoral ;
 }
 .Hovstad{
-color: aliceblue;
+color:red;
 }
 .Billing
 {
