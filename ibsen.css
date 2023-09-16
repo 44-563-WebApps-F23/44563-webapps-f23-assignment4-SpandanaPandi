@@ -1,0 +1,22 @@
+.speech{
+    color: black;
+    font-size: 12px;
+    font-family:arial;
+}
+.direction{
+    color: black;
+    font-size: 9px;
+    font-family:italic;
+    background-color:lightskyblue ;
+}
+.direction:hover{
+    color:pink;
+    background-color:darkgreen ;
+}
+.Hovstad{
+color: aliceblue;
+}
+.Billing
+{
+    color:blue
+}
