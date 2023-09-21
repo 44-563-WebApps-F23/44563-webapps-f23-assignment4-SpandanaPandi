@@ -14,12 +14,27 @@
     color:white;
     background-color:lightcoral ;
 }
-.Hovstad{
+.Hovstad
+{
 color:red;
+}
+.Hovstad:hover{
+    
+    color:violet;
+    
+text-shadow:10px 5px 2px green;
+border: 2px solid #cb6a98;
 }
 .Billing
 {
     color:blue
+}
+.Billing:hover{
+    
+    color:Red;
+    
+text-shadow:10px 5px 2px greenyellow;
+border:2px solid #cb6a98;;
 }
 .tableStyle{
     color:black;
