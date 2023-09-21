@@ -59,3 +59,50 @@ table, th, td {
   }
   tr:nth-child(even) {
     background-color: #f2f2f2;}
+
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+    
+    /* Style the footer navbar */
+    footer {
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+    }
+    
+    .navbar {
+        padding: 10px;
+    }
+    
+    .navbar ul {
+        list-style: none;
+    }
+    
+    .navbar li {
+        display: inline;
+        margin-right: 20px;
+    }
+    
+    .navbar a {
+        text-decoration: none;
+        color: #fff;
+        font-size: 18px;
+    }
+    
+    /* Style the icons using Font Awesome (remember to include the library in your project) */
+    .navbar a i {
+        margin-right: 5px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
